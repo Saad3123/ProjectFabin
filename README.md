@@ -1,2 +1,4 @@
 # ProjectFabin
-Coffee shop for Thahsin Syed, must be fully functional before i leave india
+Coffee shop for Person X, must be fully functional before April 1st
+
+Link for doc https://docs.google.com/document/d/11h8n5lEyCAWhOSMsL8WmuTP9BrfZx2TtgMjdBzq8mB4/edit
