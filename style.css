@@ -67,7 +67,7 @@ header {
   .card .fas.fa-arrow-right {
       position: absolute;
       bottom: -100px;
-      background-color: #4e9525;
+      background-color: hsl(98, 60%, 36%);
       height: 50px;
       width: 50px;
       display: flex;
