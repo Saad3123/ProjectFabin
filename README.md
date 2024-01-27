@@ -13,6 +13,3 @@ Link for doc https://docs.google.com/document/d/11h8n5lEyCAWhOSMsL8WmuTP9BrfZx2T
 HELLLO this is salman
 
 Akram OG
-
-Akram OG
->>>>>>> 6676b78e33355baa1fa8d39211f83ed82ad2e892
